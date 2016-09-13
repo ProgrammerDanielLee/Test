@@ -1,7 +1,7 @@
 package com.example.lovef.catch_me_if_you_can;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 //http://blog.naver.com/PostView.nhn?blogId=pahapck0&logNo=220586927852
@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+//모르겠다나도
 
 
     }
