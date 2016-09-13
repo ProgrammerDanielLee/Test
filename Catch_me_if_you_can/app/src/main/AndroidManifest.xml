@@ -9,6 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -17,4 +18,6 @@
         </activity>
     </application>
 
+    <activity android:name=".catch_join_page"></activity>
+    <activity android:name=".catch_login_page"></activity>
 </manifest>
