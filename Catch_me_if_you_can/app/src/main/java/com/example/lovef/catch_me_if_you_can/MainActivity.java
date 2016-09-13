@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 //http://blog.naver.com/PostView.nhn?blogId=pahapck0&logNo=220586927852
-    //너무나 잘 설명되어있는 android 프로젝트 구조
+//너무나 잘 설명되어있는 android 프로젝트 구조이다
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
